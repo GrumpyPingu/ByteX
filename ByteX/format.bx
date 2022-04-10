@@ -1,0 +1,17 @@
+!BYTEX
+<bx>
+    <conf>
+        .NAME("ByteX")
+        <VERSION:"0.0.1"/>
+    </conf>
+    <code>
+        <execute> {
+            .print("ByteX")
+            .print("Is")
+            .print("The")
+            .print("Best")
+            .calc(12 + 3)
+            .print(NAME)
+        } </execute>
+    </code>
+</bx>

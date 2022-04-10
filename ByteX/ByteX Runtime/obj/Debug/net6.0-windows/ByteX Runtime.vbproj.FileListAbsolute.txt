@@ -1,0 +1,17 @@
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ByteX Runtime.exe
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ByteX Runtime.deps.json
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ByteX Runtime.runtimeconfig.json
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ByteX Runtime.dll
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ref\ByteX Runtime.dll
+D:\ByteX\ByteX Runtime\bin\Debug\net6.0-windows\ByteX Runtime.pdb
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.vbproj.AssemblyReference.cache
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.vbproj.GenerateResource.cache
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.GeneratedMSBuildEditorConfig.editorconfig
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.AssemblyInfoInputs.cache
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.AssemblyInfo.vb
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.vbproj.CoreCompileInputs.cache
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.dll
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ref\ByteX Runtime.dll
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.pdb
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX Runtime.genruntimeconfig.cache
+D:\ByteX\ByteX Runtime\obj\Debug\net6.0-windows\ByteX_Runtime.ByteX_Runtime.resources
